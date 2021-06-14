@@ -1,0 +1,4 @@
+baseURL: "http://abelinkinbio.com/"
+title: My New Blog
+paginate: 5
+theme: hugo-PaperMod
