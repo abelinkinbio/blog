@@ -1,4 +1,7 @@
 baseURL: "http://abelinkinbio.com/"
-title: My New Blog
+title: Abe Carryl
 paginate: 5
 theme: hugo-PaperMod
+
+params:
+defaultTheme: auto
