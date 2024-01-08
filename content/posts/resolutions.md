@@ -32,6 +32,8 @@ The time management technique I've chosen to adhere to in this upcoming year is 
 
 When applying this framework to my previous year, the results immediately illuminated how I spent my time in 2023 and how I can improve my productivity in 2024.
 
+![Audit](/Audit.png)
+
 Here are my takeaways when combing through the data in more detail.
 
 **Bond**
@@ -61,5 +63,7 @@ Finally, I spent the least amount of time in the Create category. This makes sen
 Running this experiment on the last 12 months of data was a valuable tool for me to reflect on how I spend my time and how I can improve my productivity. By focusing on building relationships, learning from specialists, making decisions, and providing support to my team, I can continue to facilitate personal and team growth in the new year.
 
 ## Resolution
+
+![Goals](/Goals.png)
 
 With this in mind, I've created a contract with myself to simply be more intentional about the meetings I attend. Contrary to popular belief, meetings aren't altogether good or altogether bad – some are constructive while others are wasteful. I will set a quality bar and propose ideal outcomes to determine the meetings I attend. I will audit my calendar on a quarterly basis to hold myself accountable to this resolution.
